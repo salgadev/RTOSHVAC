@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <sys/io.h>
 
-#define paralelo 0x378 //pto paralelo
+#define paralelo 0x378 //Paralell port address
 
 struct variables{
       int fd; 
