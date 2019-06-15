@@ -18,3 +18,9 @@
 - Polarization circuits in protoboard
 - PCB for power circuit
 - Null-modem RS232 cable
+
+Work in progress:
+- Add comments to explain rest of program
+- Finish schematics using Autodesk Eagle
+- Add & Commit schematics 
+- Design PCB for whole project
