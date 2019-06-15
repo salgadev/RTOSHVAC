@@ -1,13 +1,13 @@
-#Writen in C POSIX.
+**Writen in C POSIX.**
 
-##Software used:
+*Software used:*
 - MPLAB IDE
 - RT-PReempt Linux Kernel
 - PICC C Compiler
 - Minicom (Linux)
 - HyperTerminal (Windows debugging)
 
-###Hardware used:
+*Hardware used:* 
 
 - PIC16F887 PIC microcontroller
 - MAX232A TTL IC
