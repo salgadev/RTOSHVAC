@@ -23,7 +23,7 @@ v.time=500000;
 
 int *tthread_serie(void *args){
    clock_gettime(CLOCK_REALTIME, &next);
-   next.tv_sec = next.tv_sec + 0.05; // otros 5ms
+   next.tv_sec = next.tv_sec + 0.05; // plus another 5ms
    next.tv_nsec = 0;
    v.fd = open("/dev/ttyS0", O_RDWR | O_NOCTTY | O_NDELAY);
    if (v.fd == -1)
